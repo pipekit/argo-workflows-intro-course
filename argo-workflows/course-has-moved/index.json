@@ -1,0 +1,21 @@
+{
+  "title": "This course has moved",
+  "description": "Please go to https://killercoda.com/argoproj/course/argo-workflows/",
+  "details": {
+    "intro": {
+      "text": "intro.md"
+    },
+    "steps": [
+      {
+        "title": "This course has moved",
+        "text": "moved.md"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

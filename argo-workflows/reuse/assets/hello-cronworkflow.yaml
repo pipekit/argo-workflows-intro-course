@@ -1,9 +1,0 @@
-apiVersion: argoproj.io/v1alpha1
-kind: CronWorkflow
-metadata:
-  name: hello-cron
-spec:
-  schedule: "* * * * *"
-  workflowSpec:
-    workflowTemplateRef:
-      name: hello

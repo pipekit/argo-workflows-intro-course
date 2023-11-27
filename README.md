@@ -1,3 +1,13 @@
+# November 2023 - This repo has been archived.
+
+This course has been merged into the upstream Argo project.
+
+Please go to [killercoda.com/argoproj/course/argo-workflows/](https://killercoda.com/argoproj/course/argo-workflows/) for the course material.
+
+The git repository for the course is now [github.com/argoproj-labs/training-material](https://github.com/argoproj-labs/training-material).
+
+---
+
 # Argo Workflows Killercoda Training Material
 
 [Open the material on Killercoda here.](https://killercoda.com/pipekit/course/argo-workflows/)
